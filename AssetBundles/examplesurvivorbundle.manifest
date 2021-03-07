@@ -1,0 +1,216 @@
+ManifestFileVersion: 0
+CRC: 2892221676
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5a7c78115ba2d290527cac660466d957
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2f045a1b9958d7a194bd451fcafd82ea
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67079b849227b734694872d8810229b8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 319
+  Script: {instanceID: 0}
+Assets:
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-aimH-90L.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/samus_body_VIS_O_OBJShape.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/knee_R_O_OBJShape.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-aimH-45L.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-aimV_90D.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/gun-missile.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/walkB.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/animSamus.controller
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/beam_charge.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/skill3.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/knee_L_O_OBJShape.001.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/shourder_pad_R_O_OBJShape.001.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/arm_r1_O_OBJShape.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/test.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/aimH_90L.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-walkF.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/missile.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/Samus_humanoid.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/shoot.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/aimH.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/samusPref.prefab
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/white.mat
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/transformOut.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-charge-max.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/walkL.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-walkBL.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-charge-start.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-transform.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/leg_L_O_OBJShape.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/gun.mat
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-shoot-add.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-aimV_45D.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/met_missile_001_col_svg.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/aimH_45R.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/beam.controller
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/gun-c00missile.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/visor.mat
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/arm_l3_O_OBJShape.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/missile.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-walkBR.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/transportation.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/supermissilePref.prefab
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Trail.prefab
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/aimV_90D.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/walk.controller
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/aimY.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/aimH_90R.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/shourder_pad_L_O_OBJShape.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/arm_r2_O_OBJShape.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/missile.mat
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-jump.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-aimH-90R.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-charge-loop-add.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/test1.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/hurt.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/helmet3_O_OBJShape.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/samus_body_VIS_O_OBJShape.001.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/Material.mat
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-walkB.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/beamproj.prefab
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/skill2b.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-jumpD.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/skill2.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/chargeStart.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/met_gun_emissive_001_col_svg.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/aimH_45L.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/walkBR.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/beam_outer.mat
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-idle.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-Missile.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/met_samus_002_col_svg.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-charge-start-add.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-aimV_45U.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/missilePref.prefab
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-AimH.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/cbeamproj.prefab
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/walkFL.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-walkL.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/met_morph_001_col_svg.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/gun 2.mat
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/pad_inner1_O_OBJShape.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-aimH-45R.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/leg_R_O_OBJShape.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/supermissile_anim.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-Spawn.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-walkFL.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/texSamusIcon.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/gun-c00.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/arm_cannon4_VIS_O_OBJShape.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-charge-add.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-aimV_90U.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/bust2_O_OBJShape.001.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-Missile_add.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/walkFR.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/met_samus_001_col_svg.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/gun_light.mat
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/met_supermissile_001_col_svg.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/white.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/lights.mat
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/aimV_45U.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-AimV.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/met_transportation_001_col_svg.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/pad_inner4_O_OBJShape.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/samus-c00-edit_001Avatar.asset
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/transformIn.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/chargeMaxShoot.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/supermissile.mat
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/gun 1.mat
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/knee_R_O_OBJShape.001.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/Sprint.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-runF.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/skill.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/skill4.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/aimV_45D.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/shourder_pad_L_O_OBJShape.001.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/samus_ball_VIS_O_OBJShape.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/SaimMask.mask
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/sam-gun.controller
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/SgestureMask.mask
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/arm_l1_O_OBJShape.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/missileShape.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/aimV_90U.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-c00-edit_001.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/body.mat
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/New Material.mat
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/ef_cmn_smoke05.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/Idle.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-fall.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/transport.mat
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/fall.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-walkFR.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/jumpD.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/SimpactMask.mask
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/jump.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-walkR.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/eye_samus_w_col_svg.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/supermissile.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/gun-c00shoot.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/samus_eye_NORMAL_VIS_O_OBJShape.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/chargeLoop.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/arm_l2_O_OBJShape.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/bust2_O_OBJShape.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/beam.mat
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/smoke.mat
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/gun.controller
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/supermissileShape.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/shourder_pad_R_O_OBJShape.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/walkR.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/knee_L_O_OBJShape.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/met_gun_001_col_svg.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/transportation_anim.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/missile_anim.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/walkBL.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-hurt-add.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/gun_light 1.mat
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/Spawn.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/walkF.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/gun-shoot.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-charge-loop.fbx
+Dependencies: []

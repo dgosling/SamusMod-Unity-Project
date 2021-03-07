@@ -1,0 +1,239 @@
+ManifestFileVersion: 0
+CRC: 186899481
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 29b09f089af57e4f918d1491a4c27bd0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0abc2bc2647e9aab13ff73a5f00be13a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 09fa5f42d1d992e42a80c759e1316ebe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67079b849227b734694872d8810229b8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 144
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 319
+  Script: {instanceID: 0}
+Assets:
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/Jet2Test.mat
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/DGmeshSamus.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/ef_samus_flash01.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGwalkBL.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/DGwalkBL.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/gun-missile.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/walkB.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/animDGSamus.controller
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/beam_charge.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/skill3.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/Roll.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/DGdisplaySamus.prefab
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/DGmissile.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/test.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGwalkR.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/DGSamus1.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/DGspawn.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/DGbeam.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/DGdamage.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/aimH_90L.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/ef_samus_burner00.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/missile.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/Samus_humanoid.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/shoot.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/chargeMuzzle.mat
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/aimH.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/white.mat
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGSamus1Avatar.asset
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/DGwalkB.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/transformOut.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGsprint.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/beamImpact.prefab
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/meshBall2.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/met_morph_001_col_svg.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/met_bomb_001_col_svg.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/walkL.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/texSamus.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGcbeam_loop.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGtransformOut.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/DGcbeam_start.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/matBomb.mat
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/DGfallUp.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/met_missile_001_col_svg.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/aimH_45R.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/bombShape.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/beam.controller
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGaim.mask
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/gun-c00missile.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/missile.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGjumpD.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/DGwalkBR.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGwalkB.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/DGjump.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGmissile.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/transportation.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/supermissilePref.prefab
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Trail.prefab
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGwalkF.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGcbeam_start.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGfall.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/DGidle.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/aimV_90D.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/walk.controller
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/matBall.mat
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/beamproj.prefab
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/aimY.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/aimH_90R.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/missile.mat
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/mdlSamus.prefab
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/Samus-Ball.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/test1.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/hurt.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/matDGSamus.mat
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/skill2b.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/skill2.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/chargeStart.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/bombAvatar.asset
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/DGfall.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/DGjumpd.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/aimH_45L.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/walkBR.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/beam_outer.mat
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/bomb.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/DGwalkF.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/Missileshoot.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/missilePref.prefab
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/DGcbeam_loop.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/met_bomb_001_emi_svg.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/walkFL.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/texSamusEmission.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGcbeam_max.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/DGwalkR.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGtransformIn.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/supermissile_anim.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/texSamusIcon.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/Dash.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/gun-c00.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGwalkFL.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/Crosshair.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGspawn.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/walkFR.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGSamusAvatar.asset
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/arm_cannon4_VIS_O_OBJShape.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/DGcbeam_max.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/cbeamproj.prefab
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/met_supermissile_001_col_svg.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/white.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/DGmeshSamuss.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/beamTrail.prefab
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/aimV_45U.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/meshDGSamus.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/met_transportation_001_col_svg.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/skillP.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGwalkBR.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/samus-c00-edit_001Avatar.asset
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGidle.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGwalkL.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/texMainSkin.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGbeam.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/transformIn.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/chargeMaxShoot.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/meshDGSsamus.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/supermissile.mat
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/DGwalkFL.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/ball.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/Sprint.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/skill.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/skill4.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/aimV_45D.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGairiel.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/SaimMask.mask
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/bombproj.prefab
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/displayDGSamus.controller
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/SgestureMask.mask
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/missileMuzzle.prefab
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/missileShape.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/aimV_90U.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/samus-c00-edit_001.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/normalbeamMat.mat
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/ef_cmn_smoke05.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/Idle.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/DGmdlSamus.prefab
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/Jet.mat
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/transport.mat
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/fall.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/meshDGBall.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/jumpD.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/SimpactMask.mask
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/jump.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/samusDisplay.prefab
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGdamage.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/DGwalkFR.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/supermissile.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/chargeMuzzle.prefab
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/ballAvatar.asset
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/meshBall.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/gun-c00shoot.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/chargeLoop.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/beamFireMuzzle.prefab
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/beam.mat
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/smoke.mat
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/gun.controller
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/DGsprint.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/supermissileShape.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/walkR.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGjump.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/transportation_anim.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/missile_anim.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/walkBL.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/DGtransformIn.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/DGtransformOut.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/DGwalkL.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/Spawn.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGwalkFR.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/walkF.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/gun-shoot.anim
+Dependencies: []
