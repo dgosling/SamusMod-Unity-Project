@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 186899481
+CRC: 3953900395
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 29b09f089af57e4f918d1491a4c27bd0
+    Hash: bfbe03f970301ebd03ce397e66e65531
   TypeTreeHash:
     serializedVersion: 2
     Hash: 0abc2bc2647e9aab13ff73a5f00be13a
@@ -74,6 +74,7 @@ Assets:
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/DGdisplaySamus.prefab
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/DGmissile.anim
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/test.png
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/glow2.mat
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGwalkR.anim
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/DGSamus1.fbx
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/DGspawn.anim
@@ -93,15 +94,19 @@ Assets:
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGsprint.anim
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/beamImpact.prefab
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/meshBall2.mesh
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/glow2_29782CA6.png
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/met_morph_001_col_svg.png
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/met_bomb_001_col_svg.png
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/walkL.anim
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/texSamus.png
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGcbeam_loop.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/empty.mat
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/bomb2.mat
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGtransformOut.anim
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/DGcbeam_start.anim
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/matBomb.mat
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/DGfallUp.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/bombBaseMesh.prefab
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/met_missile_001_col_svg.png
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/aimH_45R.anim
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/bombShape.mesh
@@ -112,6 +117,7 @@ Assets:
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGjumpD.anim
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/DGwalkBR.anim
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGwalkB.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/bomb_base.mat
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/DGjump.anim
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGmissile.anim
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/transportation.fbx
@@ -145,6 +151,7 @@ Assets:
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/bomb.fbx
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/DGwalkF.anim
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/Missileshoot.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/glow11_25CAF202.png
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/missilePref.prefab
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/DGcbeam_loop.anim
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/met_bomb_001_emi_svg.png
@@ -153,6 +160,7 @@ Assets:
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGcbeam_max.anim
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/DGwalkR.anim
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGtransformIn.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/bombElec.mat
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/supermissile_anim.anim
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/texSamusIcon.png
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/Dash.anim
@@ -185,6 +193,7 @@ Assets:
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/supermissile.mat
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/DGwalkFL.anim
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/ball.fbx
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/morphBomb.prefab
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/Sprint.anim
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/skill.png
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/skill4.png
@@ -201,10 +210,13 @@ Assets:
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/normalbeamMat.mat
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/ef_cmn_smoke05.png
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/Idle.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGtransformIn1 1.anim
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/DGmdlSamus.prefab
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/bombExplosion.prefab
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/Jet.mat
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Materials/transport.mat
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/fall.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/electrical_4E470390.png
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/meshes/meshDGBall.mesh
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/jumpD.anim
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/SimpactMask.mask
@@ -212,6 +224,7 @@ Assets:
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/samusDisplay.prefab
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/DGdamage.anim
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/DGwalkFR.anim
+- Assets/ExampleSurvivor/ExampleSurvivorAssets/Textures/glow10_EE9621A7.png
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Junk/supermissile.fbx
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/chargeMuzzle.prefab
 - Assets/ExampleSurvivor/ExampleSurvivorAssets/Animations/ballAvatar.asset
