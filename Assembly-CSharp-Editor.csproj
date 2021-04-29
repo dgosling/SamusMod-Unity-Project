@@ -92,6 +92,9 @@
     <Reference Include="Unity.CollabProxy.Editor">
       <HintPath>C:/Users/danie_000/Source/Repos/Samus/ExampleSurvivorUnityProject/ExampleSurvivorProject/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.com.litefeel.aligntools.Editor">
+      <HintPath>C:/Users/danie_000/Source/Repos/Samus/ExampleSurvivorUnityProject/ExampleSurvivorProject/Library/ScriptAssemblies/Unity.com.litefeel.aligntools.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>C:/Users/danie_000/Source/Repos/Samus/ExampleSurvivorUnityProject/ExampleSurvivorProject/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>

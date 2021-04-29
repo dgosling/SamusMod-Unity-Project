@@ -1,9 +1,10 @@
 {
   "dependencies": {
+    "com.litefeel.aligntools": "https://github.com/litefeel/Unity-AlignTools.git#1.7.0",
     "com.unity.ads": "2.0.8",
     "com.unity.analytics": "3.2.3",
     "com.unity.collab-proxy": "1.2.15",
-    "com.unity.package-manager-ui": "2.0.8",
+    "com.unity.package-manager-ui": "2.0.13",
     "com.unity.purchasing": "2.0.3",
     "com.unity.textmeshpro": "1.4.1",
     "com.unity.modules.ai": "1.0.0",
@@ -36,5 +37,11 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0"
+  },
+  "lock": {
+    "com.litefeel.aligntools": {
+      "revision": "1.7.0",
+      "hash": "ecca475f6ef5421bede9d1be67e9b65e5ab5a990"
+    }
   }
 }
