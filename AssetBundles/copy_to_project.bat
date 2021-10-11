@@ -1,0 +1,1 @@
+copy /y samusbundle c:\Users\danie_000\Source\Repos\SamusMod\SamusMod\
